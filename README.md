@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT16_PI_SQUARED from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-pi-squared@deno/mod.js';
+import FLOAT16_PI_SQUARED from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-pi-squared@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT16_PI_SQUARED
@@ -67,7 +67,7 @@ var bool = ( FLOAT16_PI_SQUARED === 9.8671875 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT16_PI_SQUARED from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-pi-squared@deno/mod.js';
+import FLOAT16_PI_SQUARED from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-pi-squared@v0.1.1-deno/mod.js';
 
 console.log( FLOAT16_PI_SQUARED );
 // => 9.8671875
