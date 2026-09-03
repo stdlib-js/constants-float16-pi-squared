@@ -35,7 +35,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/number-float64-base-to-float16": "^0.1.2"
+    "@stdlib/number-float64-base-to-float16": "^0.1.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/constants-float16-eps": "^0.2.3",
