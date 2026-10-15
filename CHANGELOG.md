@@ -1,0 +1,84 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2026-10-15)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`71017b3`](https://github.com/stdlib-js/stdlib/commit/71017b38fb05a0008d1e777e80904349653d5787) - **test:** migrate `constants/float16/pi-squared` to ULP-based assertions [(#16170)](https://github.com/stdlib-js/stdlib/pull/16170) _(by Athan Reines)_
+-   [`3422651`](https://github.com/stdlib-js/stdlib/commit/3422651a3ec2e6717f25d82020a62f00dbe2aa78) - **docs:** add missing section closing comments in READMEs _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.1">
+
+## 0.1.1 (2026-02-07)
+
+<section class="features">
+
+### Features
+
+-   [`f4301d5`](https://github.com/stdlib-js/stdlib/commit/f4301d5917e391ed9aa4ad3a89d055709e37bce7) - add `constants/float16/pi-squared` [(#8928)](https://github.com/stdlib-js/stdlib/pull/8928)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f4301d5`](https://github.com/stdlib-js/stdlib/commit/f4301d5917e391ed9aa4ad3a89d055709e37bce7) - **feat:** add `constants/float16/pi-squared` [(#8928)](https://github.com/stdlib-js/stdlib/pull/8928) _(by Divyanshu)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Divyanshu
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
